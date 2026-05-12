@@ -1,0 +1,3 @@
+Hello, this is a sample file.
+Python File Handling Task.
+This line is appended.
